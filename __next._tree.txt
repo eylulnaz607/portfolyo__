@@ -1,5 +1,5 @@
-:HL["/portfolyo__/_next/static/chunks/0x.pxwmy6tt~x.css","style"]
-:HL["/portfolyo__/_next/static/chunks/0mz5i6v5f9s.i.css","style"]
-:HL["/portfolyo__/_next/static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/portfolyo__/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"zZahfOw8o8qlMrwkRLTmc"}
+:HL["https://eylulnaz607.github.io/portfolyo__/_next/static/chunks/0x.pxwmy6tt~x.css","style"]
+:HL["https://eylulnaz607.github.io/portfolyo__/_next/static/chunks/0mz5i6v5f9s.i.css","style"]
+:HL["https://eylulnaz607.github.io/portfolyo__/_next/static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://eylulnaz607.github.io/portfolyo__/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"MdOizhSOQ7MI5quebskLF"}
