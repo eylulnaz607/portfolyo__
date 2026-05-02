@@ -1,3 +1,3 @@
-:HL["https://eylulnaz607.github.io/portfolyo__/_next/static/chunks/0x.pxwmy6tt~x.css","style"]
-:HL["https://eylulnaz607.github.io/portfolyo__/_next/static/chunks/0mz5i6v5f9s.i.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"MdOizhSOQ7MI5quebskLF"}
+:HL["/portfolyo__/_next/static/chunks/0x.pxwmy6tt~x.css","style"]
+:HL["/portfolyo__/_next/static/chunks/0wfu81yylgt1..css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"iR1cz1S8W1Kd6guTLV_-A"}
