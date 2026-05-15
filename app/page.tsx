@@ -28,8 +28,8 @@ const tools = [
 
 const projects = [
   {
-    title: "TÜBİTAK Projesi - Mobil Uygulama",
-    description: "Okulumuzun İEEE kulübü bünyesinde bir TÜBİTAK projesi geliştiriyoruz. Projemizde, okul öncesi çocuklara yönelik yapay zeka destekli ve uyarlanabilir bir öğrenme uygulaması olarak geliştirilen yenilikçi bir proje önerisidir.Flutter ile geliştirilen cross-platform mobil uygulama. Yapay zeka ve makine öğrenmesi teknolojileri kullanılarak geliştirilen yenilikçi bir çözüm. Modern UI/UX tasarım prensipleri ile kullanıcı dostu arayüz. Ekip projesi olup bu projede backend ve frontendi bağlama görevi benim sorumluluğumdadır.",
+    title: "Mobil Uygulama",
+    description: "Okulumuzun İEEE kulübü bünyesinde bir proje geliştiriyoruz. Projemizde, okul öncesi çocuklara yönelik yapay zeka destekli ve uyarlanabilir bir öğrenme uygulaması olarak geliştirilen yenilikçi bir proje önerisidir.Flutter ile geliştirilen cross-platform mobil uygulama. Yapay zeka ve makine öğrenmesi teknolojileri kullanılarak geliştirilen yenilikçi bir çözüm. Modern UI/UX tasarım prensipleri ile kullanıcı dostu arayüz. Ekip projesi olup bu projede backend ve frontendi bağlama görevi benim sorumluluğumdadır.",
    images: [
   "/portfolyo__/tubitak-proje1.png",
 "/portfolyo__/tubitak-proje2.png",
@@ -110,7 +110,7 @@ export default function Portfolio() {
               Bilgisayar Mühendisliği Öğrencisi
             </h1>
             <p className="text-muted-foreground text-lg leading-relaxed mb-8">
-              Eylül Naz Yemişken, 2. sınıf öğrencisiyim. Yazılım geliştirme,mobil uygulama geliştirme ve yapay zeka alanlarında kendimi geliştiriyorum. IEEE Klübü bünyesinde TÜBİTAK projesinde aktif olarak çalışıyorum. Öğrenmeye açık, meraklı ve teknik becerilerini geliştirmeye istekli biriyim.
+              Eylül Naz Yemişken, 2. sınıf öğrencisiyim. Yazılım geliştirme,mobil uygulama geliştirme ve yapay zeka alanlarında kendimi geliştiriyorum. IEEE Klübü bünyesinde projelerde aktif olarak çalışıyorum. Öğrenmeye açık, meraklı ve teknik becerilerini geliştirmeye istekli biriyim.
             </p>
             <div className="flex gap-4">
               <a
@@ -140,7 +140,7 @@ export default function Portfolio() {
               <p className="text-muted-foreground leading-relaxed mb-4">
                 Bilgisayar mühendisliği 2. sınıf öğrencisi olarak, yazılım geliştirme 
                 dünyasına olan tutkumla projeler üretiyorum. Üniversite eğitimim 
-                süresince ilgi duyduğum alanlarda çalışmalar yaparak bilgi sahibi olmaya çalışıyorum. IEEE Klübü bünyesinde TÜBİTAK projesinde aktif olarak yer alarak, 
+                süresince ilgi duyduğum alanlarda çalışmalar yaparak bilgi sahibi olmaya çalışıyorum. IEEE Klübü bünyesinde projeslerde aktif olarak yer alarak, 
                 akademik araştırma ve pratik uygulama arasında köprü kurmaya çalışıyorum.
               </p>
               <p className="text-muted-foreground leading-relaxed">
